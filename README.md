@@ -2,8 +2,10 @@
 
 
 - 🌱 I’m currently learning Germany.
-- 💬 Ask me about Math.
-- 📫 How to reach me: amanda.simao@aluno.ifce.edu.br
+- 💬 Ask me about Math, Books, Flowers.
+- 📫 How to reach me amanda.simao@aluno.ifce.edu.br
+- 🎶 Music Style Pop Internacional, Rap Geek, MPB.
+- 🎮 I love to play Stardew Valley, Minecraft, Hollow Knight.
 
 
 <picture>
