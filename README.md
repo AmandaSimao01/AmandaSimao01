@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello! 👋 I'm Amanda Simão!
 
-<!--
-**AmandaSimao01/AmandaSimao01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Germany.
+- 💬 Ask me about Math.
+- 📫 How to reach me: amanda.simao@aluno.ifce.edu.br
 
-Here are some ideas to get you started:
+<div align="center">
+   
+   ![](https://github-readme-stats.vercel.app/api?username=AmandaSimao01 &theme=outrun_border=false&include_all_commits=false&count_private=false)
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=AmandaSimao016&theme=dracula&row_border=false)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaSimao01&theme=dracula&row_border=false&include_all_commits=false&count_private=false&layout=compact)
+   
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
