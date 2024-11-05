@@ -1,4 +1,6 @@
-# Hi! I'm Amanda Simão! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+# Hi! I'm Amanda Simão! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32"><picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37f/512.gif" alt="🍿" width="32" height="32">
+
+
 - 🌱 I’m currently learning Germany.
 - 💬 Ask me about Math.
 - 📫 How to reach me: amanda.simao@aluno.ifce.edu.br
