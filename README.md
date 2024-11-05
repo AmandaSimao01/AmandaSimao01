@@ -7,6 +7,8 @@
 - 🎶 Music Style Pop Internacional, Rap Geek, MPB.
 - 🎮 I love to play Stardew Valley, Minecraft, Hollow Knight.
 
+<div align="center">
+  <a href="https://twitter.com/EiMandapanda" target="blank"><img src="https://img.shields.io/twitter/follow/EiMandapanda?logo=twitter&style=for-the-badge" alt="EiMandapanda" /></a> </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
