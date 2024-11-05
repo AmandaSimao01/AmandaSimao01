@@ -1,7 +1,7 @@
 # Hi! I'm Amanda Simão! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32"><picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37f/512.gif" alt="🍿" width="32" height="32">
 
 
-- 🌱 I’m currently learning Germany.
+- 🌻 I’m currently learning Germany.
 - 💬 Ask me about Math, Books, Flowers.
 - 📫 How to reach me amanda.simao@aluno.ifce.edu.br
 - 🎶 Music Style Pop Internacional, Rap Geek, MPB.
